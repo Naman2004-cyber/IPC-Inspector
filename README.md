@@ -169,3 +169,10 @@ Real-time log monitoring
 Advanced deadlock prevention strategies
 
 IPC throughput and memory usage graphs
+
+👨‍🎓 Author
+
+Naman Sharma , Anshu Kumar , Ravi ,  Shreya
+Operating Systems Project
+IPC-Inspector
+
