@@ -1,0 +1,16 @@
+[Sun Dec 14 08:03:31 2025
+] IPC-Inspector started (CLI mode)
+[Sun Dec 14 08:06:06 2025
+] User selected Shared Memory IPC
+[Sun Dec 14 08:06:06 2025
+] SHM: Child waiting to write
+[Sun Dec 14 08:06:06 2025
+] SHM: Child acquired semaphore
+[Sun Dec 14 08:06:07 2025
+] SHM: Parent waiting to read
+[Sun Dec 14 08:06:07 2025
+] SHM: Parent read -> Hello from child via shared memory
+[Sun Dec 14 08:06:07 2025
+] SHM: Child wrote data
+[Sun Dec 14 08:06:09 2025
+] IPC-Inspector exiting
