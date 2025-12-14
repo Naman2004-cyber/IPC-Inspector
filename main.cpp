@@ -1,3 +1,4 @@
+// CLI-based IPC Inspector Tool
 #include <iostream>
 
 #include "logger.h"
